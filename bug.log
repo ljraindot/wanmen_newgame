@@ -1,0 +1,24 @@
+[2018-5-28 9:58:51]
+write protect file:\??\C:\Program Files\Common Files\System\safemonn64.dll psafemonn64:cf52000  isafemonn64:212992
+
+[2018-5-28 9:58:51]
+[MzWriteFile] \??\C:\Program Files\Common Files\System\safemonn64.dll call ZwWriteFile  status error c00000e8
+
+[2018-5-28 9:58:56]
+write protect file:\??\C:\Program Files\Common Files\System\safemonn64.dll psafemonn64:cf52000  isafemonn64:212992
+
+[2018-5-28 9:58:56]
+[MzWriteFile] \??\C:\Program Files\Common Files\System\safemonn64.dll call ZwWriteFile  status error c00000e8
+
+[2018-5-28 9:59: 0]
+write protect file:\??\C:\Program Files\Common Files\System\safemonn64.dll psafemonn64:cf52000  isafemonn64:212992
+
+[2018-5-28 9:59: 0]
+[MzWriteFile] \??\C:\Program Files\Common Files\System\safemonn64.dll call ZwWriteFile  status error c00000e8
+
+[2018-5-28 9:59: 7]
+write protect file:\??\C:\Program Files\Common Files\System\safemonn64.dll psafemonn64:cf52000  isafemonn64:212992
+
+[2018-5-28 9:59: 7]
+[MzWriteFile] \??\C:\Program Files\Common Files\System\safemonn64.dll call ZwWriteFile  status error c00000e8
+
